@@ -24,7 +24,7 @@ app.use(express.static(__dirname))
      app.post("/api/notes", (req, res) =>{
         let newNote = req.body
         notes.push(newNote);
-         return console.log(`added new note`)
+         return console.log(notes)
      })
 
 
