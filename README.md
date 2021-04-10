@@ -16,7 +16,9 @@
   - [Questions](#questions)
   
   ## Installation
-
+    npm init -y
+    npm i 
+    npm i express
 
   
   ## Usage
