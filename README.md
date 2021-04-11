@@ -2,36 +2,33 @@
 
   # note-taker
 
-  
+  This is a deployed website that can help the user create a list of notes. A user can enter a title and then the body section of a note they'd like to keep! This is a usefull tool for anyone who uses their notes on their phone to keep track of things! 
   
   ## Table of Contents
   
   - [Installation](#installation)
   - [Usage](#usage)
   - [GIF](#gif)
-  - [Testing](#testing)
   - [Support](#support)
   - [Contributing](#contributing)
   - [License](#license)
   - [Questions](#questions)
   
   ## Installation
-    npm init -y
-    npm i 
-    npm i express
+    If a user is running this locally it is very important once the code is forked to npm i, and double check npm i express in your terminal line. 
 
-  
+    If a user is accessing this deployed just visit the link here:
+
+
   ## Usage
   
- 
+    As the description talks about this is useful for anyone just looking to keep things a little more organized and a little more techy then carrying a note book! 
+
+    This program was built using node js, express js, and includes HTML/CSS/JS elements
 
   ## Gif 
 
   ![gif]()
-  
-  ## Testing
-
-   
   
   ## Support
   
