@@ -17,7 +17,8 @@
   ## Installation
     If a user is running this locally it is very important once the code is forked to npm i, and double check npm i express in your terminal line. 
 
-    If a user is accessing this deployed just visit the link here:
+    If a user is accessing this deployed just visit the link here: 
+    [Click Here](https://aqueous-cove-90697.herokuapp.com/)
 
 
   ## Usage
@@ -28,7 +29,7 @@
 
   ## Gif 
 
-  ![gif]()
+  ![gif](/imgs/NoteTaker.gif)
   
   ## Support
   

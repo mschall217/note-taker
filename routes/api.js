@@ -23,18 +23,7 @@ module.exports = (app) => {
 		res.json(notes);
 	});
 	app.delete("/api/notes/:id", (res, req) => {
-        let notes = JSON.parse(fs.readFileSync("./db/db.json", "utf8"));
-        let x = req.params.id.toString();
-        console.log(x);
 
-        for(let i=0; i<notes.length; i++){
-            if(notes[i].id == x){
-                console.log('deleting')
-                res.send(notes[i]);
-                notes.splice(i,1)
-                return;
-            }
-        }
     });
 	//adding a function for this write file hoping to clean up the requests
 	function updateNotes(notes) {
